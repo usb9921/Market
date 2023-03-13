@@ -8,6 +8,7 @@ public class MarketProApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MarketProApplication.class, args);
+		//chnages done Qa - yOGESH
 	}
 
 }
